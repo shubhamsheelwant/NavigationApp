@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NavigationApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_content">1. Add AboutFragment to the navigation graph
+\n\n
+Click the "add" button. A list of fragments and activities will drop down. Add fragment_about. Name it with the title_about_trivia string. Set its id to aboutFragment. The menu will need this id to navigate to the correct fragment.
+\n\n\n
+2. Create new menu resource.
+\n\n
+Right click on the res folder within the Android project and select New Resource File. We’ll call this one overflow_menu, with resource type of Menu. Click on the overflow_menu within the menu directory, to view our new (empty) menu.</string>
+
+</resources>
